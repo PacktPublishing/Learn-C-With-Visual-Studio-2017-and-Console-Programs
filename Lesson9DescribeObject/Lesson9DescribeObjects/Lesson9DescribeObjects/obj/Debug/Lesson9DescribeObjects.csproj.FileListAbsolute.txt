@@ -1,0 +1,7 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson9DescribeObject\Lesson9DescribeObjects\Lesson9DescribeObjects\bin\Debug\Lesson9DescribeObjects.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson9DescribeObject\Lesson9DescribeObjects\Lesson9DescribeObjects\bin\Debug\Lesson9DescribeObjects.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson9DescribeObject\Lesson9DescribeObjects\Lesson9DescribeObjects\bin\Debug\Lesson9DescribeObjects.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson9DescribeObject\Lesson9DescribeObjects\Lesson9DescribeObjects\obj\Debug\Lesson9DescribeObjects.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson9DescribeObject\Lesson9DescribeObjects\Lesson9DescribeObjects\obj\Debug\Lesson9DescribeObjects.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson9DescribeObject\Lesson9DescribeObjects\Lesson9DescribeObjects\obj\Debug\Lesson9DescribeObjects.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson9DescribeObject\Lesson9DescribeObjects\Lesson9DescribeObjects\obj\Debug\Lesson9DescribeObjects.pdb

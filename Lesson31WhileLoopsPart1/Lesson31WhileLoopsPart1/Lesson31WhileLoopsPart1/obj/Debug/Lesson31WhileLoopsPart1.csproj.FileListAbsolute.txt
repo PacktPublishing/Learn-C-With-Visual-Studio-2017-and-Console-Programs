@@ -1,0 +1,7 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\bin\Debug\Lesson31WhileLoopsPart1.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\bin\Debug\Lesson31WhileLoopsPart1.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\bin\Debug\Lesson31WhileLoopsPart1.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\obj\Debug\Lesson31WhileLoopsPart1.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\obj\Debug\Lesson31WhileLoopsPart1.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\obj\Debug\Lesson31WhileLoopsPart1.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\Lesson31WhileLoopsPart1\obj\Debug\Lesson31WhileLoopsPart1.pdb

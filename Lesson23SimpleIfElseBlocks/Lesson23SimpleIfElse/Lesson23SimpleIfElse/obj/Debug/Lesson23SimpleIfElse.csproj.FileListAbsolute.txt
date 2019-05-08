@@ -1,0 +1,7 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson23SimpleIfElseBlocks\Lesson23SimpleIfElse\Lesson23SimpleIfElse\bin\Debug\Lesson23SimpleIfElse.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson23SimpleIfElseBlocks\Lesson23SimpleIfElse\Lesson23SimpleIfElse\bin\Debug\Lesson23SimpleIfElse.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson23SimpleIfElseBlocks\Lesson23SimpleIfElse\Lesson23SimpleIfElse\bin\Debug\Lesson23SimpleIfElse.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson23SimpleIfElseBlocks\Lesson23SimpleIfElse\Lesson23SimpleIfElse\obj\Debug\Lesson23SimpleIfElse.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson23SimpleIfElseBlocks\Lesson23SimpleIfElse\Lesson23SimpleIfElse\obj\Debug\Lesson23SimpleIfElse.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson23SimpleIfElseBlocks\Lesson23SimpleIfElse\Lesson23SimpleIfElse\obj\Debug\Lesson23SimpleIfElse.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson23SimpleIfElseBlocks\Lesson23SimpleIfElse\Lesson23SimpleIfElse\obj\Debug\Lesson23SimpleIfElse.pdb

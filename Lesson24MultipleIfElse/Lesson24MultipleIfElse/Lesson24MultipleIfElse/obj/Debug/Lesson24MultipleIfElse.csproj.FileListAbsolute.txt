@@ -1,0 +1,7 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson24MultipleIfElse\Lesson24MultipleIfElse\Lesson24MultipleIfElse\bin\Debug\Lesson24MultipleIfElse.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson24MultipleIfElse\Lesson24MultipleIfElse\Lesson24MultipleIfElse\bin\Debug\Lesson24MultipleIfElse.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson24MultipleIfElse\Lesson24MultipleIfElse\Lesson24MultipleIfElse\bin\Debug\Lesson24MultipleIfElse.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson24MultipleIfElse\Lesson24MultipleIfElse\Lesson24MultipleIfElse\obj\Debug\Lesson24MultipleIfElse.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson24MultipleIfElse\Lesson24MultipleIfElse\Lesson24MultipleIfElse\obj\Debug\Lesson24MultipleIfElse.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson24MultipleIfElse\Lesson24MultipleIfElse\Lesson24MultipleIfElse\obj\Debug\Lesson24MultipleIfElse.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson24MultipleIfElse\Lesson24MultipleIfElse\Lesson24MultipleIfElse\obj\Debug\Lesson24MultipleIfElse.pdb

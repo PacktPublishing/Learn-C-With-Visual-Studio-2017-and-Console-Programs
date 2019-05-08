@@ -1,0 +1,7 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson7OneVariable\Lesson7OneVariable\Lesson7OneVariable\bin\Debug\Lesson7OneVariable.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson7OneVariable\Lesson7OneVariable\Lesson7OneVariable\bin\Debug\Lesson7OneVariable.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson7OneVariable\Lesson7OneVariable\Lesson7OneVariable\bin\Debug\Lesson7OneVariable.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson7OneVariable\Lesson7OneVariable\Lesson7OneVariable\obj\Debug\Lesson7OneVariable.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson7OneVariable\Lesson7OneVariable\Lesson7OneVariable\obj\Debug\Lesson7OneVariable.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson7OneVariable\Lesson7OneVariable\Lesson7OneVariable\obj\Debug\Lesson7OneVariable.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson7OneVariable\Lesson7OneVariable\Lesson7OneVariable\obj\Debug\Lesson7OneVariable.csprojResolveAssemblyReference.cache
