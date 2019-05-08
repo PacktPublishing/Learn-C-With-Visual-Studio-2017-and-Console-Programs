@@ -1,0 +1,7 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson58MethodWithReturnValue\Lesson58ReturnMethods\Lesson58ReturnMethods\bin\Debug\Lesson58ReturnMethods.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson58MethodWithReturnValue\Lesson58ReturnMethods\Lesson58ReturnMethods\bin\Debug\Lesson58ReturnMethods.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson58MethodWithReturnValue\Lesson58ReturnMethods\Lesson58ReturnMethods\bin\Debug\Lesson58ReturnMethods.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson58MethodWithReturnValue\Lesson58ReturnMethods\Lesson58ReturnMethods\obj\Debug\Lesson58ReturnMethods.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson58MethodWithReturnValue\Lesson58ReturnMethods\Lesson58ReturnMethods\obj\Debug\Lesson58ReturnMethods.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson58MethodWithReturnValue\Lesson58ReturnMethods\Lesson58ReturnMethods\obj\Debug\Lesson58ReturnMethods.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson58MethodWithReturnValue\Lesson58ReturnMethods\Lesson58ReturnMethods\obj\Debug\Lesson58ReturnMethods.pdb

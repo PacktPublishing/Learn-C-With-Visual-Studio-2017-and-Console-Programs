@@ -1,0 +1,7 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson2FirstProgram\Lesson2FirstProgram\Lesson2FirstProgram\obj\Debug\Lesson2FirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson2FirstProgram\Lesson2FirstProgram\Lesson2FirstProgram\obj\Debug\Lesson2FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson2FirstProgram\Lesson2FirstProgram\Lesson2FirstProgram\bin\Debug\Lesson2FirstProgram.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson2FirstProgram\Lesson2FirstProgram\Lesson2FirstProgram\bin\Debug\Lesson2FirstProgram.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson2FirstProgram\Lesson2FirstProgram\Lesson2FirstProgram\bin\Debug\Lesson2FirstProgram.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson2FirstProgram\Lesson2FirstProgram\Lesson2FirstProgram\obj\Debug\Lesson2FirstProgram.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson2FirstProgram\Lesson2FirstProgram\Lesson2FirstProgram\obj\Debug\Lesson2FirstProgram.pdb

@@ -1,0 +1,14 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lessson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\bin\Debug\Lesson27TryParse.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lessson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\bin\Debug\Lesson27TryParse.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lessson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\bin\Debug\Lesson27TryParse.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lessson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\obj\Debug\Lesson27TryParse.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lessson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\obj\Debug\Lesson27TryParse.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lessson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\obj\Debug\Lesson27TryParse.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lessson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\obj\Debug\Lesson27TryParse.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\bin\Debug\Lesson27TryParse.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\bin\Debug\Lesson27TryParse.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\bin\Debug\Lesson27TryParse.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\obj\Debug\Lesson27TryParse.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\obj\Debug\Lesson27TryParse.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\obj\Debug\Lesson27TryParse.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson27IfElseRealLife\Lesson27TryParse\Lesson27TryParse\obj\Debug\Lesson27TryParse.pdb

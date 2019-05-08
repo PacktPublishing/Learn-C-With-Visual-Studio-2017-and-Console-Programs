@@ -1,0 +1,7 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson51AndOpertor\Lesson51AndOperator\Lesson51AndOperator\bin\Debug\Lesson51AndOperator.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson51AndOpertor\Lesson51AndOperator\Lesson51AndOperator\bin\Debug\Lesson51AndOperator.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson51AndOpertor\Lesson51AndOperator\Lesson51AndOperator\bin\Debug\Lesson51AndOperator.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson51AndOpertor\Lesson51AndOperator\Lesson51AndOperator\obj\Debug\Lesson51AndOperator.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson51AndOpertor\Lesson51AndOperator\Lesson51AndOperator\obj\Debug\Lesson51AndOperator.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson51AndOpertor\Lesson51AndOperator\Lesson51AndOperator\obj\Debug\Lesson51AndOperator.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson51AndOpertor\Lesson51AndOperator\Lesson51AndOperator\obj\Debug\Lesson51AndOperator.pdb
