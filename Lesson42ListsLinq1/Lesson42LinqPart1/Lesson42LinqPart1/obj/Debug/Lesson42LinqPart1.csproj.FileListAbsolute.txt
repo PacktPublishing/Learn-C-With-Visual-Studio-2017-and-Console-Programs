@@ -1,0 +1,7 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson42ListsLinq1\Lesson42LinqPart1\Lesson42LinqPart1\bin\Debug\Lesson42LinqPart1.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson42ListsLinq1\Lesson42LinqPart1\Lesson42LinqPart1\bin\Debug\Lesson42LinqPart1.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson42ListsLinq1\Lesson42LinqPart1\Lesson42LinqPart1\bin\Debug\Lesson42LinqPart1.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson42ListsLinq1\Lesson42LinqPart1\Lesson42LinqPart1\obj\Debug\Lesson42LinqPart1.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson42ListsLinq1\Lesson42LinqPart1\Lesson42LinqPart1\obj\Debug\Lesson42LinqPart1.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson42ListsLinq1\Lesson42LinqPart1\Lesson42LinqPart1\obj\Debug\Lesson42LinqPart1.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson42ListsLinq1\Lesson42LinqPart1\Lesson42LinqPart1\obj\Debug\Lesson42LinqPart1.pdb

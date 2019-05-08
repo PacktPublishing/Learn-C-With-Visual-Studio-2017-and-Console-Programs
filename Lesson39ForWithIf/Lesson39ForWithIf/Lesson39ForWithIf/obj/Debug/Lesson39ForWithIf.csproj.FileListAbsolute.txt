@@ -1,0 +1,6 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson39ForWithIf\Lesson39ForWithIf\Lesson39ForWithIf\bin\Debug\Lesson39ForWithIf.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson39ForWithIf\Lesson39ForWithIf\Lesson39ForWithIf\bin\Debug\Lesson39ForWithIf.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson39ForWithIf\Lesson39ForWithIf\Lesson39ForWithIf\bin\Debug\Lesson39ForWithIf.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson39ForWithIf\Lesson39ForWithIf\Lesson39ForWithIf\obj\Debug\Lesson39ForWithIf.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson39ForWithIf\Lesson39ForWithIf\Lesson39ForWithIf\obj\Debug\Lesson39ForWithIf.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson39ForWithIf\Lesson39ForWithIf\Lesson39ForWithIf\obj\Debug\Lesson39ForWithIf.pdb

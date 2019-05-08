@@ -1,0 +1,7 @@
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\bin\Debug\Lesson34ForLoopsPart1.exe.config
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\bin\Debug\Lesson34ForLoopsPart1.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\bin\Debug\Lesson34ForLoopsPart1.pdb
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\obj\Debug\Lesson34ForLoopsPart1.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\obj\Debug\Lesson34ForLoopsPart1.csproj.CoreCompileInputs.cache
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\obj\Debug\Lesson34ForLoopsPart1.exe
+C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\Lesson34ForLoopsPart1\obj\Debug\Lesson34ForLoopsPart1.pdb
