@@ -1,6 +1,0 @@
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson41ListsLinq2\Lesson41LinqWithTryParse\Lesson41LinqWithTryParse\bin\Debug\Lesson41LinqWithTryParse.exe.config
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson41ListsLinq2\Lesson41LinqWithTryParse\Lesson41LinqWithTryParse\bin\Debug\Lesson41LinqWithTryParse.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson41ListsLinq2\Lesson41LinqWithTryParse\Lesson41LinqWithTryParse\bin\Debug\Lesson41LinqWithTryParse.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson41ListsLinq2\Lesson41LinqWithTryParse\Lesson41LinqWithTryParse\obj\Debug\Lesson41LinqWithTryParse.csproj.CoreCompileInputs.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson41ListsLinq2\Lesson41LinqWithTryParse\Lesson41LinqWithTryParse\obj\Debug\Lesson41LinqWithTryParse.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson41ListsLinq2\Lesson41LinqWithTryParse\Lesson41LinqWithTryParse\obj\Debug\Lesson41LinqWithTryParse.pdb

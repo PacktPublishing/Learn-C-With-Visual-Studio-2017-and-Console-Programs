@@ -1,7 +1,0 @@
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson38StringsWithForLoops\Lesson38StringsWithFor\Lesson38StringsWithFor\bin\Debug\Lesson38StringsWithFor.exe.config
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson38StringsWithForLoops\Lesson38StringsWithFor\Lesson38StringsWithFor\bin\Debug\Lesson38StringsWithFor.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson38StringsWithForLoops\Lesson38StringsWithFor\Lesson38StringsWithFor\bin\Debug\Lesson38StringsWithFor.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson38StringsWithForLoops\Lesson38StringsWithFor\Lesson38StringsWithFor\obj\Debug\Lesson38StringsWithFor.csprojResolveAssemblyReference.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson38StringsWithForLoops\Lesson38StringsWithFor\Lesson38StringsWithFor\obj\Debug\Lesson38StringsWithFor.csproj.CoreCompileInputs.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson38StringsWithForLoops\Lesson38StringsWithFor\Lesson38StringsWithFor\obj\Debug\Lesson38StringsWithFor.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson38StringsWithForLoops\Lesson38StringsWithFor\Lesson38StringsWithFor\obj\Debug\Lesson38StringsWithFor.pdb

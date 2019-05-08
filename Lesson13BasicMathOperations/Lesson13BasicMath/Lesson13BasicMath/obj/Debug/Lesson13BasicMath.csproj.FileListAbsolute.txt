@@ -1,7 +1,0 @@
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson13BasicMathOperations\Lesson13BasicMath\Lesson13BasicMath\bin\Debug\Lesson13BasicMath.exe.config
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson13BasicMathOperations\Lesson13BasicMath\Lesson13BasicMath\bin\Debug\Lesson13BasicMath.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson13BasicMathOperations\Lesson13BasicMath\Lesson13BasicMath\bin\Debug\Lesson13BasicMath.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson13BasicMathOperations\Lesson13BasicMath\Lesson13BasicMath\obj\Debug\Lesson13BasicMath.csprojResolveAssemblyReference.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson13BasicMathOperations\Lesson13BasicMath\Lesson13BasicMath\obj\Debug\Lesson13BasicMath.csproj.CoreCompileInputs.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson13BasicMathOperations\Lesson13BasicMath\Lesson13BasicMath\obj\Debug\Lesson13BasicMath.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson13BasicMathOperations\Lesson13BasicMath\Lesson13BasicMath\obj\Debug\Lesson13BasicMath.pdb

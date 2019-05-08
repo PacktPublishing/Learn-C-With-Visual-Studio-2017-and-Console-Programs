@@ -1,7 +1,0 @@
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson15ReadStringInput\Lesson15StringInput\Lesson15StringInput\bin\Debug\Lesson15StringInput.exe.config
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson15ReadStringInput\Lesson15StringInput\Lesson15StringInput\bin\Debug\Lesson15StringInput.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson15ReadStringInput\Lesson15StringInput\Lesson15StringInput\bin\Debug\Lesson15StringInput.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson15ReadStringInput\Lesson15StringInput\Lesson15StringInput\obj\Debug\Lesson15StringInput.csprojResolveAssemblyReference.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson15ReadStringInput\Lesson15StringInput\Lesson15StringInput\obj\Debug\Lesson15StringInput.csproj.CoreCompileInputs.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson15ReadStringInput\Lesson15StringInput\Lesson15StringInput\obj\Debug\Lesson15StringInput.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson15ReadStringInput\Lesson15StringInput\Lesson15StringInput\obj\Debug\Lesson15StringInput.pdb

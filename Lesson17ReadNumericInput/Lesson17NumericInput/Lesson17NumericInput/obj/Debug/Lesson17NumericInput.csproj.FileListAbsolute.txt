@@ -1,7 +1,0 @@
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson17ReadNumericInput\Lesson17NumericInput\Lesson17NumericInput\bin\Debug\Lesson17NumericInput.exe.config
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson17ReadNumericInput\Lesson17NumericInput\Lesson17NumericInput\bin\Debug\Lesson17NumericInput.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson17ReadNumericInput\Lesson17NumericInput\Lesson17NumericInput\bin\Debug\Lesson17NumericInput.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson17ReadNumericInput\Lesson17NumericInput\Lesson17NumericInput\obj\Debug\Lesson17NumericInput.csprojResolveAssemblyReference.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson17ReadNumericInput\Lesson17NumericInput\Lesson17NumericInput\obj\Debug\Lesson17NumericInput.csproj.CoreCompileInputs.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson17ReadNumericInput\Lesson17NumericInput\Lesson17NumericInput\obj\Debug\Lesson17NumericInput.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson17ReadNumericInput\Lesson17NumericInput\Lesson17NumericInput\obj\Debug\Lesson17NumericInput.pdb

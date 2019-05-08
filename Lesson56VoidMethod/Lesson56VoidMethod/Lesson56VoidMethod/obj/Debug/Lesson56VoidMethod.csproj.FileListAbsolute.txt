@@ -1,7 +1,0 @@
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson56VoidMethod\Lesson56VoidMethod\Lesson56VoidMethod\bin\Debug\Lesson56VoidMethod.exe.config
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson56VoidMethod\Lesson56VoidMethod\Lesson56VoidMethod\bin\Debug\Lesson56VoidMethod.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson56VoidMethod\Lesson56VoidMethod\Lesson56VoidMethod\bin\Debug\Lesson56VoidMethod.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson56VoidMethod\Lesson56VoidMethod\Lesson56VoidMethod\obj\Debug\Lesson56VoidMethod.csprojResolveAssemblyReference.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson56VoidMethod\Lesson56VoidMethod\Lesson56VoidMethod\obj\Debug\Lesson56VoidMethod.csproj.CoreCompileInputs.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson56VoidMethod\Lesson56VoidMethod\Lesson56VoidMethod\obj\Debug\Lesson56VoidMethod.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson56VoidMethod\Lesson56VoidMethod\Lesson56VoidMethod\obj\Debug\Lesson56VoidMethod.pdb

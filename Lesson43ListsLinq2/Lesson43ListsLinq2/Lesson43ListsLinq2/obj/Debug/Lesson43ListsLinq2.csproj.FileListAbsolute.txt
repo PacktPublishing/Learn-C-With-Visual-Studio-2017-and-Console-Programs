@@ -1,6 +1,0 @@
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson43ListsLinq2\Lesson43ListsLinq2\Lesson43ListsLinq2\bin\Debug\Lesson43ListsLinq2.exe.config
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson43ListsLinq2\Lesson43ListsLinq2\Lesson43ListsLinq2\bin\Debug\Lesson43ListsLinq2.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson43ListsLinq2\Lesson43ListsLinq2\Lesson43ListsLinq2\bin\Debug\Lesson43ListsLinq2.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson43ListsLinq2\Lesson43ListsLinq2\Lesson43ListsLinq2\obj\Debug\Lesson43ListsLinq2.csproj.CoreCompileInputs.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson43ListsLinq2\Lesson43ListsLinq2\Lesson43ListsLinq2\obj\Debug\Lesson43ListsLinq2.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson43ListsLinq2\Lesson43ListsLinq2\Lesson43ListsLinq2\obj\Debug\Lesson43ListsLinq2.pdb

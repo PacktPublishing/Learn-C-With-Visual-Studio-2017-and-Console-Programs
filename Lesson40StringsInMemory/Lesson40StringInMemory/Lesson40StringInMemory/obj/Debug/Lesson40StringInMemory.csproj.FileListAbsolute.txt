@@ -1,7 +1,0 @@
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson40StringsInMemory\Lesson40StringInMemory\Lesson40StringInMemory\obj\Debug\Lesson40StringInMemory.csprojResolveAssemblyReference.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson40StringsInMemory\Lesson40StringInMemory\Lesson40StringInMemory\obj\Debug\Lesson40StringInMemory.csproj.CoreCompileInputs.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson40StringsInMemory\Lesson40StringInMemory\Lesson40StringInMemory\bin\Debug\Lesson40StringInMemory.exe.config
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson40StringsInMemory\Lesson40StringInMemory\Lesson40StringInMemory\bin\Debug\Lesson40StringInMemory.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson40StringsInMemory\Lesson40StringInMemory\Lesson40StringInMemory\bin\Debug\Lesson40StringInMemory.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson40StringsInMemory\Lesson40StringInMemory\Lesson40StringInMemory\obj\Debug\Lesson40StringInMemory.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson40StringsInMemory\Lesson40StringInMemory\Lesson40StringInMemory\obj\Debug\Lesson40StringInMemory.pdb

@@ -1,7 +1,0 @@
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson35ForLoopsPart2\Lesson35ForLoops2\Lesson35ForLoops2\bin\Debug\Lesson35ForLoops2.exe.config
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson35ForLoopsPart2\Lesson35ForLoops2\Lesson35ForLoops2\bin\Debug\Lesson35ForLoops2.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson35ForLoopsPart2\Lesson35ForLoops2\Lesson35ForLoops2\bin\Debug\Lesson35ForLoops2.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson35ForLoopsPart2\Lesson35ForLoops2\Lesson35ForLoops2\obj\Debug\Lesson35ForLoops2.csprojResolveAssemblyReference.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson35ForLoopsPart2\Lesson35ForLoops2\Lesson35ForLoops2\obj\Debug\Lesson35ForLoops2.csproj.CoreCompileInputs.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson35ForLoopsPart2\Lesson35ForLoops2\Lesson35ForLoops2\obj\Debug\Lesson35ForLoops2.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson35ForLoopsPart2\Lesson35ForLoops2\Lesson35ForLoops2\obj\Debug\Lesson35ForLoops2.pdb

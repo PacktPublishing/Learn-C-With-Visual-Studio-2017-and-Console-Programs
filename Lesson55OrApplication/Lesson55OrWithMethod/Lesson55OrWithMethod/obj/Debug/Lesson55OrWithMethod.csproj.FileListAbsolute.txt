@@ -1,7 +1,0 @@
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson55OrWithChars\Lesson55OrWithMethod\Lesson55OrWithMethod\bin\Debug\Lesson55OrWithMethod.exe.config
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson55OrWithChars\Lesson55OrWithMethod\Lesson55OrWithMethod\bin\Debug\Lesson55OrWithMethod.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson55OrWithChars\Lesson55OrWithMethod\Lesson55OrWithMethod\bin\Debug\Lesson55OrWithMethod.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson55OrWithChars\Lesson55OrWithMethod\Lesson55OrWithMethod\obj\Debug\Lesson55OrWithMethod.csproj.CoreCompileInputs.cache
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson55OrWithChars\Lesson55OrWithMethod\Lesson55OrWithMethod\obj\Debug\Lesson55OrWithMethod.exe
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson55OrWithChars\Lesson55OrWithMethod\Lesson55OrWithMethod\obj\Debug\Lesson55OrWithMethod.pdb
-C:\Users\towsi\OneDrive\udemy\C#WithConsolePrograms2018\Lesson55OrWithChars\Lesson55OrWithMethod\Lesson55OrWithMethod\obj\Debug\Lesson55OrWithMethod.csprojResolveAssemblyReference.cache
